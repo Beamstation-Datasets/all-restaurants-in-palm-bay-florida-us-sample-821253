@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Palm Bay, Florida with a population of over 119k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Palm Bay, Florida, US",
+  "export_job_id": "0557091e-9167-4582-ae16-06e711423ba3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 821253,
+  "location_name": "Palm Bay",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-palm-bay-florida-us-sample-821253",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/821253/beamstation_821253_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.63,
+  "sample_records": 21,
+  "sample_sha256": "f4084868bcc51567d43eee98b903cf49ddbeba49f76af3f26b8444f760775f87",
+  "sample_size_bytes": 92868,
+  "total_records": 218,
+  "updated_at": "2026-04-14T14:25:37.111543+00:00"
+}
