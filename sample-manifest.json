@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0875ce6d-aa71-47af-9fe1-9c3c408d1099",
+  "export_job_id": "8f963a06-80c3-4c65-a41a-480fb4ad51d9",
   "id_short": 821253,
-  "published_at": "2026-04-21T19:51:48Z",
+  "published_at": "2026-04-28T19:29:32Z",
   "repo_name": "all-restaurants-in-palm-bay-florida-us-sample-821253",
   "sample_asset_name": "beamstation_821253_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/821253/beamstation_821253_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "aea77f27c180cc48bb470e75574b87f829d3e2fc8499060b6339e45fff4130fc",
-  "sample_size_bytes": 77193,
-  "total_records": 175
+  "sample_records": 22,
+  "sample_sha256": "6266e407272545be17e8b21cbb1d3e3e74f0ee247828c5091e4397d3fd207e60",
+  "sample_size_bytes": 86026,
+  "total_records": 229
 }
